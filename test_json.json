@@ -1,0 +1,10 @@
+{
+    "RSLT_MSG": "정상처리",
+    "RSLT_CD": "000",
+    "RESP_DATA": [
+        {
+            "ACCT_NM": "권성표",
+            "TRSC_SEQ_NO": "0688798"
+        }
+    ]
+}
